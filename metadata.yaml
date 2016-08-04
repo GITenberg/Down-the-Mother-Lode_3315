@@ -1,0 +1,30 @@
+_repo: Down-the-Mother-Lode_3315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hemphill, Vivia
+    birthdate: 1889
+    deathdate: 1934
+    gutenberg_agent_id: '1172'
+    url: http://www.gutenberg.org/2009/agents/1172
+description: ''
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'California -- Gold discoveries -- Fiction'
+- !lcsh 'Frontier and pioneer life -- California -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: One Sunday in Stinson's Bar -- The Tom Bell stronghold -- The hanging
+  of Charlie Price -- Rattlesnake Dick -- Indian vengeance -- Grizzly Bob of Snake
+  Gulch -- Curley Coppers the Jack -- The race of the shoestring gamblers -- The dragon
+  and the tomahawk -- The Barstow lynching.
+title: Down the Mother Lode
+url: http://www.gutenberg.org/ebooks/3315
